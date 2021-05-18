@@ -4,7 +4,7 @@
 
 ![image-20210518210217191](https://github.com/Bob998/Prophet-time-series-forecasting/blob/main/IMG/%E9%A2%98%E7%9B%AE1.png)
 
-![image-20210518210222975](C:\Users\Bob\AppData\Roaming\Typora\typora-user-images\image-20210518210222975.png)
+![image-20210518210222975](https://github.com/Bob998/Prophet-time-series-forecasting/blob/main/IMG/%E9%A2%98%E7%9B%AE2.png)
 
 #### 需要的工具：
 
@@ -20,7 +20,7 @@ prophet简单使用：https://www.zhihu.com/question/56585493/answer/551699339
 
 #### 最终结果：
 
-![image-20210518211849143](C:\Users\Bob\AppData\Roaming\Typora\typora-user-images\image-20210518211849143.png)
+![image-20210518211849143](https://github.com/Bob998/Prophet-time-series-forecasting/blob/main/IMG/%E6%95%88%E6%9E%9C.png)
 
 #### 心得体会：
 
