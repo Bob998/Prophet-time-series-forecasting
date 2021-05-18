@@ -2,7 +2,7 @@
 
 #### 题目要求：
 
-![image-20210518210217191](C:\Users\Bob\AppData\Roaming\Typora\typora-user-images\image-20210518210217191.png)
+![image-20210518210217191](https://github.com/Bob998/Prophet-time-series-forecasting/blob/main/IMG/%E9%A2%98%E7%9B%AE1.png)
 
 ![image-20210518210222975](C:\Users\Bob\AppData\Roaming\Typora\typora-user-images\image-20210518210222975.png)
 
